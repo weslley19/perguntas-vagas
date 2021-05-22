@@ -13,7 +13,7 @@ function countVogal(arg) {
 
     console.log(counter)
 
-    document.querySelector('#h1').innerHTML = `A palavra que você digitou contém ${counter} vogais`;
+    document.querySelector('h1').innerHTML = `A palavra que você digitou contém ${counter} vogais`;
 }
 
 
