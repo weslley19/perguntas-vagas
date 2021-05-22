@@ -1,3 +1,9 @@
+.content-header-title {
+    color: #fff;
+    margin-left: 80px;
+    padding: 20px 0;
+}
+
 .button-main {
     max-width: 1000px;
     margin: 20px auto;
