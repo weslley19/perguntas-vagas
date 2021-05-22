@@ -1,0 +1,175 @@
+.button-main {
+    max-width: 1000px;
+    margin: 20px auto;
+}
+
+.button-main a {
+    background-color: rgb(194, 16, 16);
+    border: none;
+    padding: 5px 40px;
+    margin-top: 10px;
+    transition: all ease-in-out .1s;
+    color: #fff;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    margin-top: 20px;
+}
+
+.title {
+    margin: 20px auto;
+    text-align: center;
+}
+
+.content-main {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.content-main-questions {
+    width: 300px;
+    margin: 20px auto;
+    margin-bottom: 10px;
+    background-color: #fff;
+    text-align: center;
+    min-height: 120px;
+    line-height: 120px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    transition: all ease-in-out .2s;
+}
+
+.content-main-questions:hover {
+    transform: scale(1.05);
+    box-shadow: 2px 2px 5px rgba(34, 33, 33, 0.5);
+    cursor: pointer;
+}
+
+
+/* Style question 01 */
+.content-main-01 {
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.content-main-01-data-menu-list-item {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.content-main-01-choose {
+    margin-top: 20px;
+}
+
+.content-main-01-choose-button button {
+    background-color: rgb(53, 92, 219);
+    border: none;
+    padding: 5px 20px;
+    margin-top: 10px;
+    transition: all ease-in-out .1s;
+    color: #fff;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+
+.content-main-01-choose-button button:hover {
+    background-color: rgb(46, 80, 194);
+    cursor: pointer;
+}
+
+
+/* Style question 04 */
+.content-main-01-sort {
+    text-align: center;
+}
+
+.content-main-01-sort-number {
+    display: flex;
+    justify-content: center;
+}
+
+.content-main-01-sort-number p {
+    margin: 10px;
+    background-color: #ddd;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    padding: 10px;
+}
+
+.content-main-01-form {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.content-main-01-form input {
+    padding: 5px 20px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    outline: none;
+}
+
+.content-main-01-form button {
+    background-color: rgb(53, 92, 219);
+    border: none;
+    padding: 5px 20px;
+    margin-top: 10px;
+    transition: all ease-in-out .1s;
+    color: #fff;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+
+.content-main-01-form button:hover {
+    background-color: rgb(46, 80, 194);
+    cursor: pointer;
+}
+
+/* Style question 5 */
+#buttonn {
+    background-color: rgb(53, 92, 219);
+    border: none;
+    padding: 5px 20px;
+    margin-top: 10px;
+    transition: all ease-in-out .1s;
+    color: #fff;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+
+#buttonn:hover {
+    background-color: rgb(46, 80, 194);
+    cursor: pointer;
+}
+
+
+
+/* Style question 06 */
+.content-main-01-form {
+    margin: auto;
+}
+
+.content-main-01-form input, #vogal {
+    border: none;
+    background-color: #ddd;
+    width: 50%;
+    height: 40px;
+    padding: 0 5px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
